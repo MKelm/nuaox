@@ -1,5 +1,5 @@
-dworld
-======
+nuaox
+=====
 
 "NuaoX" a GPL game for Windows, Mac and Linux.
 
