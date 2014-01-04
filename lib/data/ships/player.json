@@ -2,6 +2,5 @@
   "size": 100,
   "speed": 400,
   "shield": 100,
-  "weapons": { "guns": { "delay": 5, "damage": 100 } },
-  "direction": 0
+  "weapons": { "guns": { "delay": 5, "damage": 100 } }
 }
