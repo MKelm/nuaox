@@ -2,9 +2,9 @@
   "size": 100,
   "speed": 400,
   "shield": 100,
-  "weapons": {
-    "gun": { "delay": 5, "damage": 100, "position": { "x": -30, "y": -10 } },
-    "gun": { "delay": 5, "damage": 100, "position": { "x": 30, "y": -10 } }
-  },
+  "weapons": [
+    { "handle": "gun", "delay": 5, "damage": 100, "position": { "x": -30, "y": -10 } },
+    { "handle": "gun", "delay": 5, "damage": 100, "position": { "x": 30, "y": -10 } }
+  ],
   "direction": 0
 }
