@@ -3,8 +3,8 @@
   "speed": 100,
   "shield": 100,
   "weapons": [
-    { "handle": "gun", "speed": 400, "delay": 100, "damage": 1, "position": { "x": -30, "y": -10 }, "size": 6 },
-    { "handle": "gun", "speed": 400, "delay": 100, "damage": 1, "position": { "x": 30, "y": -10 }, "size": 6 }
+    { "handle": "gun", "speed": 400, "delay": 100, "damage": 1, "position": { "x": -30, "y": 10 }, "size": 6 },
+    { "handle": "gun", "speed": 400, "delay": 100, "damage": 1, "position": { "x": 30, "y": 10 }, "size": 6 }
   ],
   "direction": 1
 }
