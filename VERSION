@@ -4,5 +4,5 @@ NuaoX
 libraries/inclusions
 - node-webkit (0.8.4, 2013-12-30 or higher)
 - jQuery (2.0.3 - 2013-07-03)
-- pixi.js (1.4.1 build - 2014-01-05)
+- pixi.js (1.3.0 - 2013-08-18)
 - tween.js (12 build, 2014-01-01)
